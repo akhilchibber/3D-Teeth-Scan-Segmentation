@@ -1,4 +1,4 @@
-# Deep Learning based 3D Teeth Scan Segmentation (Ongoing with Backdrop Build)
+# Deep Learning based 3D Teeth Scan Segmentation (Under Progress with Backdrop Build)
 <p align="center">
   <img src="https://github.com/akhilchibber/3D-Teeth-Scan-Segmentation/blob/main/3D-Teeth-Scan-Segmentation.png?raw=true" alt="earthml Logo">
 </p>
